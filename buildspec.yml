@@ -5,7 +5,7 @@ phases:
   
     commands:
         # install npm
-        - python3 -m pip install django
+        - pip install django
        
   build:
     commands:
